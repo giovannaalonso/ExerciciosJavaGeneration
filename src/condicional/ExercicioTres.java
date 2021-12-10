@@ -4,7 +4,7 @@ categoria ela se encontra:
  15-17 juvenil
  18-25 adulto*/
 
-package exercicio.condicional.java;
+package condicional;
 
 import java.util.Scanner;
 

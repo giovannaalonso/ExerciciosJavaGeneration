@@ -1,6 +1,6 @@
 // Faça um programa que receba três inteiros e diga qual deles é o maior.
 
-package exercicio.condicional.java;
+package condicional;
 
 import java.util.Scanner;
 

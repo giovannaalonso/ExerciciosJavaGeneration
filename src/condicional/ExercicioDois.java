@@ -1,6 +1,6 @@
 // Faça um programa que entre com três números e coloque em ordem crescente.
 
-package exercicio.condicional.java;
+package condicional;
 
 import java.util.Scanner;
 
