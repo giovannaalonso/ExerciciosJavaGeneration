@@ -19,11 +19,11 @@ public class ExercicioCinco {
 				System.out.println("\nInsira um número inteiro: ");
 				numero = entrada.nextInt();
 				
-				if(numero % 3 != 0) {
+				if (numero % 3 == 0 && numero != 0) {
 				
-				soma ++;
-				
-				multiplos = multiplos + numero;
+					soma++;
+					
+					multiplos = multiplos + numero;
 				
 				}
 											
