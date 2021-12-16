@@ -1,4 +1,4 @@
-package Heranca;
+package heranca;
 
 public class Animal {
 	
@@ -11,7 +11,7 @@ public class Animal {
 
 	}
 	
-	public Animal (String nome, int idade, String emitirSom, String movimentacao) {
+	/*public Animal (String nome, int idade, String emitirSom, String movimentacao) {
 		
 		this.setNome (nome);
 		this.setIdade (idade);
@@ -19,7 +19,7 @@ public class Animal {
 		this.setMovimentacao (movimentacao);
 		
 	}
-		
+		*/
 	
 	public int getIdade() {
 		return idade;
@@ -49,10 +49,9 @@ public class Animal {
 		this.nome = nome;
 	}
 	
-	public String emitindoSons () {
-		
-				
-		return getEmitirSom ();
+	
+	public String emitirSom() {
+		return emitirSom;
 	
 	}
 }
